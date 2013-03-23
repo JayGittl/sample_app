@@ -99,7 +99,7 @@ footer {
    float: left;
   }
   
-  u1 {
+  ul {
     float: right;
     list-style: none;
   
@@ -142,7 +142,7 @@ aside {
 
 /* forms */
 
-input, textarea, select, .uneditable-inupt {
+input, textarea, select, .uneditable-input {
   border: 1px solid #bbb;
   width: 100%;
   padding: 10px;
@@ -156,7 +156,7 @@ input {
 
 #error_explanation {
   color: #f00;
-  u1 {
+  ul {
     list-style: none;
     margin: 0 0 18px 0;
   }
